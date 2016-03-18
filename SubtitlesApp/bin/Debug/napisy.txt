@@ -1,0 +1,389 @@
+﻿[319][331]Czysto.
+[1119][1132]Matt?
+[1593][1606]Boże...
+[1619][1648].:: GrupaHatak.pl ::.
+[1649][1685]{y:u}{c:$aaeeff}Fear The Walking Dead 1x02|Tak blisko, a tak daleko
+[1685][1763]{y:u}{c:$aaeeff}Tłumaczenie:|kat & Igloo666
+[1847][1869]- Travis!|- Przepraszam!
+[1874][1909]Chris, stało się coś poważnego.|Oddzwoń do mnie zaraz.
+[1910][1927]/Tu Alicia.|/Zostaw wiadomość.
+[1927][1952]Kochanie, natychmiast|do mnie oddzwoń.
+[1955][1970]Spróbuj na domowy.
+[1975][2012]/Znacznie wzrosła ilość strzelanin|/związanych z siłami policyjnymi.
+[2013][2040]- Przestań.|/- Policja nie udziela komentarzy.
+[2041][2073]/Ludzie myślą, że nic się nie zmieniło.|/Nieprawda!
+[2073][2103]/To katastrofa|/na skalę biblijną!
+[2103][2130]/Tracimy najlepszego|/podającego w całej lidze!
+[2172][2204]Nikt o tym nie mówi.|Jakaś zmowa milczenia.
+[2212][2238]Musimy uciekać z miasta.|Od ludzi.
+[2241][2269]Zabierzemy Alicię, Lizę, Chrisa|i uciekniemy,
+[2269][2289]póki nie dowiemy się,|o co chodzi.
+[2289][2304]- Na pustynię?|- Tak.
+[2304][2328]Będzie dobrze.|Będziemy tam bezpieczni.
+[2335][2358]- Alicia, gdzie ty jesteś?!|/- Mamo...
+[2364][2382]Mamy Nicka.|Jedziemy po ciebie.
+[2382][2410]Spakuj nas,|weź jakieś jedzenie, dobrze?
+[2411][2430]/- Nie mogę.|- Wyjeżdżamy z miasta.
+[2431][2465]/- Co? Ja nie mogę!|- Co się stało?
+[2466][2485]/On jest chory.|/Bardzo.
+[2485][2502]- Ale kto?|/- Matt.
+[2502][2522]Ma ze 39.5 stopnia.
+[2523][2546]- Co jest?|/- Chciałam mu zrobić kąpiel,
+[2546][2574]- ale boli, gdy go dotykam.|- Nie dotykaj go!
+[2580][2611]- Zadzwoń na pogotowie.|/- Numer wciąż jest zajęty.
+[2613][2633]Jego rodzice są w Vegas.|Nie odbierają.
+[2633][2675]Jedziemy po ciebie. Nie dotykaj go,|póki się nie zjawimy, dobrze?
+[2690][2701]Mamo?
+[2726][2744]Za 10 minut tam będziemy.
+[2847][2859]Poważnie?
+[2992][3017]/DZWONI: TATA
+[3306][3328]Odsuń się od niego, Alicia.
+[3344][3358]Co cię ugryzło?
+[3365][3390]Ludzie chorują.|To zaraźliwe.
+[3390][3409]Jeśli on coś złapał,|to ja też.
+[3419][3457]Mogę z nim porozmawiać?|Proszę?
+[3538][3549]Matt?
+[3582][3612]- Gdzie są twoi rodzice?|- Niedługo wrócą.
+[3614][3628]Dziś wracają do domu.
+[3637][3651]Kiedy to się zaczęło?
+[3666][3693]Wczoraj miał się ze mną|spotkać na plaży i...
+[3693][3706]nie przyszedł.
+[3729][3743]Odkrztuś.
+[3749][3766]Alicia, mogłabyś...?
+[3898][3919]No, gdzie jesteś?
+[3952][3966]Co ty robisz?!
+[3995][4018]- To ugryzienie?|- Tak.
+[4052][4068]- Tak się zaraża?|- Nie wiem.
+[4068][4093]Calvin został zastrzelony.|To nie było...
+[4097][4113]To coś zupełnie innego.
+[4131][4171]- Zabierz stąd Alicię.|- O czym mówicie?
+[4176][4194]Zadzwonię po karetkę|z samochodu.
+[4195][4209]- Zaczekam tu.|- Nie! Wyjdź.
+[4209][4227]- Mamo, odbiło ci?!|- Nie rób tego.
+[4227][4246]Zwariowałaś?!|On jest chory!
+[4278][4307]- Spokojnie...|- Chcesz wody?
+[4382][4396]Posłuchaj.
+[4422][4442]Moi rodzice niedługo wrócą.
+[4452][4478]Wiesz, że wyzdrowieję.|Wiesz to.
+[4501][4520]Nie.|Nie zostawię cię tak.
+[4545][4557]Kocham cię.
+[4639][4652]Ja ciebie też.
+[4677][4713]I dlatego musisz iść.|Dobrze?
+[4744][4758]Musisz iść.
+[4799][4809]Idź.
+[4974][4988]Dziękujemy.
+[5292][5306]Co się dzieje?
+[5308][5344]Pały zastrzeliły bezdomnego!|Wpakowali w niego ze 20 kulek!
+[5345][5356]Obczajmy to!
+[5563][5594]- Cześć, Travis!|- Robicie imprezę?
+[5606][5630]Tak.|Wpadnijcie do nas.
+[5635][5662]9 urodziny Gladys, uwierzycie?|To przerażające!
+[5664][5681]- Bomba.|- Mamy masę jedzenia.
+[5682][5710]Sporo gości nie przyjdzie.|Pewnie przez tego wirusa.
+[5712][5729]No to do zobaczenia!
+[5734][5751]Dobrze, dzięki!
+[5804][5827]Przynajmniej Peter ogarnia.
+[5973][6002]Powiesz jej, mamo?|Pani Cruz?
+[6010][6028]- Co?|- Co się dzieje.
+[6028][6061]- Nie wiemy, co się dzieje.|- Wiemy więcej od niej.
+[6069][6094]Dobrze, porozmawiam z nią.|Powiem jej.
+[6131][6159]Tak jakby nikt|nie zwracał na nic uwagi.
+[6169][6209]Jakby nic takiego się|w ogóle nie działo.
+[6229][6254]Ale się dzieje.
+[6255][6267]Naprawdę.
+[6401][6414]Ocaliłeś nas.
+[6432][6449]Nie miałeś wyboru.
+[6523][6569]Niedługo będzie ze mną|naprawdę kurewsko niedobrze.
+[6601][6631]Wiesz o tym, prawda?
+[6643][6654]Wiem.
+[6674][6704]Cholera, nie odbierają.|Ani Liza, ani Chris.
+[6706][6739]- Wciąż mnie odrzuca.|- Dzwoniłeś na domowy Lizy?
+[6742][6767]Pewnie, że tak, Maddy.|Dzwoniłem.
+[6768][6790]To jedź po nich.|Teraz, Travis.
+[6848][6868]I jeszcze raz!
+[6872][6896]- Gdzie są wszyscy?|- Nie wiem.
+[6927][6950]/To co, przynieść tort?
+[6976][7028]- Zadzwoń po mnie, jeśli zejdzie dłużej.|- Jeśli tak będzie, jedźcie beze mnie.
+[7049][7066]- Dogonię was.|- Nie.
+[7409][7442]- Jestem zajęta, Trav.|/- Już do ciebie jadę.
+[7442][7458]Że co?|Nie!
+[7461][7493]- Zgodziliśmy się, że zostaje ze mną.|- Wrócił już ze szkoły?
+[7494][7521]- Nick znów zniknął?|/- Opowiem ci na miejscu.
+[7522][7546]Coś się stało.|Wyjaśnię ci w domu, dobra?
+[7547][7573]/Nie!|Nie możesz odstawiać takich akcji.
+[7574][7589]/Jezu, Liza, po prostu...
+[7590][7618]Przy rozwodzie|określiliśmy wszystko jasno.
+[7618][7646]/- Chris jest w domu?|- Umowa jest jasna i klarowna.
+[7647][7676]/- Nie słuchasz mnie!|- Masz trzy weekendy w miesiącu.
+[7676][7696]Nie możesz sobie|po prostu wpadać.
+[7697][7737]Zadzwonisz do niego, proszę?|Zadzwoń i każ mu natychmiast wracać.
+[7738][7761]/Ale przecież|/za chwilę sam wróci.
+[7773][7812]- W tej chwili, Liza!|- Do zobaczenia za tydzień.
+[7887][7919]- Chodź tu, obczaj!|- No! Jeszcze jeden!
+[8117][8138]/Alicia,|/potrzebuję wiadra!
+[8195][8231]/Alicia?|/Przynieś wiadro!
+[8258][8282]Doktor Han!|Z tej strony znów Maddy Clark.
+[8282][8308]Wie pani co,|Nick okropnie się czuje.
+[8308][8336]Wystawi pani receptę,|a ja wykupię leki?
+[8336][8370]Bardzo się o niego martwię.|Naprawdę tego potrzebuje.
+[8370][8387]Trzymaj się, braciszku.
+[8404][8439]- Zdobędziemy te leki.|- Im dłużej, tym będzie z nim gorzej.
+[8439][8465]- Dobrze o tym wiem.|- Nie nadaje się do jazdy.
+[8466][8495]- Alicia!|- Muszę pod koc.
+[8522][8539]- Co zrobisz, mamo?|- Nie wiem.
+[8539][8568]Doktor Han nie oddzwania.|Travis też nie odbiera.
+[8574][8607]Jest jak po trzęsieniu ziemi.|Sieć jest przeciążona.
+[8622][8641]- Masz jakiś zapas?|- Nie.
+[8643][8675]- Ja mam Vicodin na zęba.|- Spuściłam go w toalecie.
+[8675][8697]Źle, że teraz|przechodzi odstawienie.
+[8697][8712]- Wiem.|- Mamo, muszę...
+[8712][8745]- Wiem. Spokojnie.|- Weź je z gabinetu w szkole.
+[8747][8771]- Mamo?|- Ale... szkoła chyba jest zamknięta.
+[8772][8797]Nie oddzwonili.|A on nim wrócę...
+[8836][8847]Pilnuj go.
+[8853][8873]- Nie wychodź z domu.|- Nie wyjdę.
+[8873][8898]- Obiecaj mi!|- Zaopiekuję się nim.
+[9064][9076]Jasna cholera!
+[9091][9106]Ej, panie władzo!
+[9121][9142]Co się dzieje?|Wypadek czy co?!
+[9143][9180]- Za Sherman Oaks będzie spokój.|- I po co w ogóle pytałam?
+[10657][10668]Jezu!
+[10685][10711]- Dzień dobry, pani C.|- Tobias!
+[10753][10768]Mógłbym odebrać nóż?
+[10849][10866]/CHRONIĆ I SŁUŻYĆ
+[10925][10960]- Wiecie, że tak się nie robi!|- To jest złe, ziomek!
+[10964][10983]Złe, złe, złe!
+[10983][11006]Pan się odsunie|i wróci do swoich spraw.
+[11006][11039]- Ale to jego sprawy. I nasze też!|- Proszę się odsunąć.
+[11039][11062]Facet nie był groźny.|Nie miał broni!
+[11067][11085]Policja popełniła przestępstwo!
+[11095][11115]Proszę się natychmiast rozejść.
+[11116][11142]- Nie ma opcji!|- To scena zbrodni.
+[11143][11164]No, a my stoimy|za żółtą taśmą.
+[11168][11207]- Nie będę dwa razy powtarzał.|- Fajnie, bo my się nie ruszymy.
+[11208][11255]- Odłóż tę kamerę, chłopcze.|- Nie, ziomek! Kręć ich.
+[11255][11281]Damy tym SS-manom|lekcję praw obywatelskich.
+[11282][11319]- Chcesz trafić do aresztu, synku?|- Za co niby, za wolność słowa?
+[11320][11346]- Za wolność zgromadzeń?|- Nie złamał żadnych praw.
+[11347][11380]I nikomu nie grozi!|No, zadzwoń po koleżków!
+[11573][11617]- Tylko bądź ostrożny.|- Dziękuję.
+[11771][11781]Masz.
+[11798][11816]O nie, nic ciepłego.
+[11824][11844]Następnym razem|ugotuję chłodnik.
+[11844][11877]- No, i wyląduje we wiadrze.|- Napij się wody.
+[11880][11904]Nie chce mi się pić.|Nie tego potrzebuję.
+[11904][11933]O tak, dobrze to wiem.|Nad tym pracuje mama.
+[11981][12010]To jej impreza|i zapłacze, jeśli zechce.
+[12173][12196]- Ejże, dokąd to?|- Długo mi nie zejdzie.
+[12197][12213]Nie!|Nie możesz tam wrócić!
+[12213][12241]- Muszę iść.|- Obiecałaś mamie!
+[12244][12270]A ty na okrągło|coś obiecujesz!
+[12273][12294]- Kładź się!|- Jestem dupkiem, wiem...
+[12294][12319]Ale słuchaj, jeśli wyjdziesz,|już nie wrócisz.
+[12320][12332]Proszę cię.
+[12336][12357]- Mamie jakoś pozwoliłeś.|- Niebezpiecznie...!
+[12358][12372]Matt jest niebezpieczny.
+[12372][12397]- Jezu.|- Nie wiesz, co robią ci ludzie.
+[12397][12429]- Nie wiesz, co musiałem zrobić!|- No, co takiego?!
+[12433][12466]/Matt cię skrzywdzi!|/On cię zabije, Ali...
+[12572][12590]Nie!|Tylko nie teraz!
+[12592][12604]Nie teraz!
+[12609][12629]Nie rób mi tego, Nick!|Nie teraz!
+[12630][12658]Nie rób tego,|głupi skurwysynu!
+[12693][12708]Nie ruszaj się.
+[12763][12806]Po co ja w ogóle z tobą rozmawiam?|Tylko marnuję swój czas.
+[12808][12829]- Jest tutaj?|- Myślisz, że cię okłamuję?
+[12830][12855]Musimy go znaleźć.|Nie jest bezpiecznie.
+[12857][12895]Ten nowy wirus i ostatnie strzelaniny|są ze sobą połączone.
+[12896][12908]O czym ty mówisz?
+[12909][12935]Nie widziałaś, co było|w nocy na autostradzie?
+[12936][12959]Uczyłam się do 2 w nocy|i padłam.
+[12961][12991]Ludzie chorują.|I stają się agresywni.
+[12993][13016]- I policja do nich strzela?|- Widziałem to.
+[13016][13033]A wiesz, co ja widziałam?|Nic.
+[13033][13061]- Jest coraz gorzej.|- Nie wiem, co mam odpowiedzieć.
+[13062][13089]- Czego szukasz?|- Daj mi tylko chwilkę.
+[13091][13129]/Zostajemy! Zostajemy!
+[13160][13187]- Mamo!|/- Gdzie ty, do cholery, jesteś?!
+[13187][13215]- Tato, dlaczego dzwonisz z jej koma?!|- Bo jestem z matką.
+[13217][13234]Zabierzemy cię.|Gdzie jesteś?
+[13239][13258]Jest protest!|Jestem na nim.
+[13259][13275]/- Protest?|- Gdzie jest?
+[13275][13306]- Gdzie?|/- Policjanci zastrzelili bezdomnego!
+[13308][13341]/- A biedak niczego nie zrobił!|- Pojedziemy po ciebie.
+[13342][13373]/Ludzie się sprzeciwiają!|/To ważne, tato!
+[13373][13390]Jasne, rozumiem, ale...
+[13391][13425]Jestem tego częścią, jasne?|Muszę lecieć, tato!
+[13425][13437]/Chris!
+[13477][13486]Już wiem!
+[13504][13530]Jedzenie ze stołówki|przetrwa atak jądrowy.
+[13534][13557]Ma termin ważności|jakoś do roku 3000.
+[13565][13604]- Po co pani wróciła?|- Mój syn, Nick, źle się czuje.
+[13616][13648]Sprytne.|Leki będą w policyjnych schowkach.
+[13655][13677]Pamiętam Nicka,|gdy byłem w 1 klasie.
+[13680][13710]- Wydawał się miły.|- To dobry chłopak.
+[13718][13728]Tak.
+[13736][13763]Zbieracze najpierw|ogołocą apteki.
+[13768][13798]Potem sklepy z bronią|i monopolowe.
+[13801][13836]Im mniej się wychodzi|tym mniejsze szanse na spotkanie.
+[13914][13940]Widziała już pani|któregoś z nich?
+[13945][13977]Bo ja tylko w Internecie.
+[13978][14008]Nie.|Pośpieszmy się.
+[14036][14061]Żyła złota.
+[14112][14147]- Kurczę, ale zbierasz zapasów!|- Bo trochę to potrwa.
+[14157][14175]Mama już wróciła?
+[14182][14196]Wujek się kręcił.
+[14203][14224]Pani też powinna|trochę zabrać.
+[14240][14257]Nie, mamy żywność.
+[14394][14408]Przepraszam...
+[14424][14442]Powinna już wrócić.
+[14456][14468]Wiem.
+[14472][14518]Ktoś powinien zadzwonić|do tej pory.
+[14597][14610]Dziękuję.
+[14688][14727]/Sto lat, sto lat...
+[14731][14766]- Nienawidzę cię.|/- Niech żyje, żyje nam!
+[14767][14777]Wiem.
+[14954][14985]Na pustyni będzie bezpieczniej,|bo wszystko diabli wezmą.
+[14986][15017]Zero satelitów, Internetu,|telefonów komórkowych.
+[15026][15058]Komunikacja padnie,|nie będzie komu ogarniać serwerów.
+[15058][15086]Z tego samego powodu|padnie elektryczność.
+[15088][15124]Wszystko trafi szlag.|A ludzie tego nie rozumieją.
+[15125][15166]- Cywilizacja upada błyskawicznie.|- Władze utrzymają to w ryzach.
+[15171][15199]Te same władze,|które niby miały nas ostrzec?
+[15203][15217]Chodź.
+[15254][15269]Niech pani czeka!
+[15399][15411]To jeden z nich.
+[15526][15547]Chodźmy.|Szybko!
+[15560][15572]Idziemy.
+[15584][15599]Biegnij.
+[15653][15666]Boże...
+[15676][15688]Zostaw to!
+[15694][15710]Zostaw to, Tobias!
+[15763][15773]Jezu.
+[15777][15788]Otwórz drzwi.
+[15822][15832]Boże!
+[15846][15856]Artie?
+[15946][15957]Artie!
+[16009][16034]Musimy uciekać!
+[16103][16115]Słyszysz mnie, Artie?
+[16116][16138]Nie słyszy!|Przecież pani to wie!
+[16159][16178]Sprowadzimy ci pomoc, Artie.
+[16265][16276]Przestań.
+[16282][16304]Sprowadzimy ci pomoc.|Zadzwo...
+[16310][16320]Nie!
+[16321][16338]- Przestań!|- Nie!
+[16421][16431]Nie!
+[16435][16452]- Nie!|- Tobias!
+[16532][16544]Ratunku!
+[16644][16660]Nie!
+[17455][17468]Christopherze Jamesie Manawo!
+[17469][17495]- Musimy iść.|- Zastrzelili bezbronnego!
+[17496][17515]- Opróżnili magazynki!|- Powiesz potem.
+[17516][17553]Robię to, czego mnie nauczyłeś!|Występuję w obronie słabszych!
+[17554][17572]Wiem, ale nie czas|i nie miej...
+[17574][17589]To się dzieje|tu i teraz!
+[17647][17658]Dość tego!
+[17669][17687]- Jedziemy.|- To ważne!
+[17692][17720]- A ty jesteś ważny dla mnie.|- Posłuchaj ojca!
+[17751][17765]Natychmiast, Christopher!
+[17767][17793]Co się wam stało?|Co z wami nie tak?
+[17794][17817]- Jaja sobie robicie?|- Nie, czekaj!
+[17861][17872]- Idziemy.|- Tędy!
+[17873][17886]Dokąd idziemy?!
+[17913][17924]Stać!|Już!
+[17938][17957]/Na ziemię!|/Stać!
+[18019][18032]Spadamy!
+[18092][18112]Szybciej!|Biegnijcie!
+[18238][18258]- Dokąd idziemy?|- Tędy!
+[18382][18409]- Może być?|- Lepiej zamknij drzwi.
+[18412][18435]- Klasa sama w sobie.|- Super, super.
+[18439][18450]Rozwalmy to!
+[18481][18502]Pan pójdzie w boczną.
+[18508][18517]W prawo.
+[18595][18618]Przepraszam pana!|Czy możemy wejść?
+[18628][18639]Zamknięte.
+[18639][18663]Proszę, tu nie jest bezpiecznie.
+[18668][18695]- To idźcie na policję.|- To ich się boimy.
+[18695][18730]Nie pozwalają nikomu opuścić ulicy.|Chcemy to tylko przeczekać.
+[18731][18756]- Błagam.|- Wpuść ich i zamknij drzwi.
+[18773][18784]Prosimy pana!
+[18803][18832]- Dobrze, wejdźcie.|- Dziękujemy panu!
+[18941][18964]Macie tylne wejście,|umożliwiające dostęp do uliczki?
+[18965][19008]- Nie ma innego wyjścia.|- Travis, proszę cię.
+[19013][19053]- Travis, to ich dom.|- A macie jak wejść na dach?
+[19054][19094]- Travis, możesz tam nie wchodzić?|- Będziemy mogli obserwować wszystko.
+[19095][19140]- Wystarczy, że zostaniecie tam.|- Lepiej trzymać się z dala od drzwi.
+[19140][19183]- Będziecie bezpieczniejsi tam.|- Tato, myślałam, że już zamykasz.
+[19183][19221]- Ofelia, wróć do swojego pokoju.|- Wszystko w porządku?
+[19224][19250]- Jak najlepszym.|- Kim jesteście?
+[19251][19276]Przepraszam, jestem Travis,|a to moja rodzina.
+[19277][19329]Chcemy tylko przeczekać te zamieszki,|a potem od razu sobie pójdziemy.
+[19358][19396]W porządku, tato.|Proszę, usiądźcie tutaj.
+[19397][19428]- Dziękuję i jeszcze raz przepraszam.|- Przepraszamy za tę sytuację.
+[19429][19460]Po prostu gdzieś usiądź.|Dziękujemy.
+[19461][19484]Co się dzieje?
+[19484][19529]Na zewnątrz coś się dzieje.|Po prostu tu wbiegli.
+[19565][19605]/Przedstawiciele służby zdrowia|/zalecają pozostanie w domach.
+[19606][19627]/Odradzamy podróżowanie.
+[19628][19658]/Prosimy o zachowanie ostrożności|/w przypadku wyjścia z domu.
+[19659][19715]/W wielu dzielnicach uruchamiane są|/programy straży sąsiedzkiej.
+[19779][19823]Możesz zostać z nami,|dopóki się to nie skończy.
+[19825][19854]- To się nie skończy.|- Mamy sporo miejsca.
+[19854][19904]- I jest u nas bezpiecznie.|- Musi się pani zająć synem.
+[19938][19965]Poradzę sobie.
+[19966][20012]- A pani?|- Tak.
+[20569][20610]- Dziękujemy.|- Dziękujcie mojej żonie.
+[20685][20727]- To jakiś obłęd.|- Chris, odsuń się od okna.
+[20745][20775]- Niczego nie widzę.|- I uwierz, nie chcesz.
+[20787][20832]Po prostu odsuń się trochę.|Usiądź i poczytaj coś.
+[20942][20981]Co tak właściwie wiesz?|I co widziałeś?
+[21004][21047]Widziałem, co robią inni.|I czego nie robią.
+[21069][21103]To jest całkowicie niepojęte.
+[21115][21185]Oni nie umierają, Liza.|Po prostu... powracają.
+[21233][21276]Musimy uciec jak najdalej|od tego wszystkiego.
+[21294][21319]Wszyscy.
+[21456][21497]- Co tak długo?|- Zamknij drzwi.
+[21512][21555]- Co z twoim bratem?|- Nigdy nie czułem się lepiej.
+[21556][21595]- Wyleciał z padaczką.|- Przepraszam.
+[21617][21647]- Dzwonił Travis?|- Nie.
+[21894][21926]- Będziemy je racjonować.|- Oxycontin? Świetna sprawa.
+[21926][21960]- Ile go masz?|- Tyle, byśmy dotarli na pustynię.
+[21961][21988]A potem co?
+[22050][22114]Próbowała się wymknąć,|ale ją powstrzymałem.
+[22217][22242]Matt, to znowu ja.|Możesz oddzwonić?
+[22243][22290]Chcę wiedzieć,|jak się trzymasz.
+[22636][22662]O Boże, nie...
+[22805][22824]- Travis?|- Maddy?
+[22825][22850]/- Travis?|- Słyszysz mnie?
+[22850][22872]/Tak, gdzie jesteś?|/Nic ci nie jest?
+[22873][22905]Tak, jesteśmy cali.|Odnalazłem Chrisa, nic mu nie jest.
+[22906][22930]/A gdzie ty jesteś?|/Nic ci nie jest?
+[22931][22963]Tak, jesteśmy cali.|Możesz wrócić do domu?
+[22964][22978]/Chwilowo utknęliśmy.
+[22979][23034]/Autostrada jest zakorkowana,|/a mundurowi próbują opanować sytuację.
+[23035][23089]- Ale gdzie jesteś? U Lizy?|- Nie, czekamy w zakładzie fryzjerskim.
+[23093][23137]A jak trzyma się Nick?|Znalazłaś leki dla niego?
+[23167][23218]Tylko tyle, by złagodzić ból|i by dowieźć go na pustynię.
+[23219][23251]- O kurwa.|/- Co to było?
+[23252][23274]/- Odezwij się!|- Nic się nie stało.
+[23275][23330]Nic mi nie jest.|Jedźcie na pustynię beze mnie.
+[23332][23378]- Nie, zaczekam na ciebie.|/- Nie wiem, na ile tu utknęliśmy.
+[23379][23420]/- Jedźcie, dogonimy was.|- Travis, nie rozłą...
+[23476][23520]/Policja Los Angeles|/nakazuje wszystkim zejść z ulic.
+[23818][23852]Co się stało, do cholery?
+[23856][23878]Mamo?
+[23894][23924]Wszystko w porządku?
+[23942][23965]Mamo.
+[24600][24645]- Tata nadal nie odbiera?|- Co chwilę nie ma zasięgu.
+[24646][24676]Często odcinają prąd.
+[24686][24718]Powiedz mi, co się dzieje.
+[24764][24795]O Boże.
+[24840][24880]- Nie patrz.|- Pan Dawson ich zaatakował.
+[24881][24907]Zostaw mnie!
+[24937][24960]Alicia, nie!
+[24975][25009]Co ty wyprawiasz?!|Mamo!
+[25034][25081]Zdrowaś Maryjo,|łaski pełna, Pan z Tobą,
+[25085][25146]błogosławionaś Ty między niewiastami|i błogosławiony owoc żywota Twojego, Jezus.
+[25152][25216]Święta Maryjo, Matko Boża,|/módl się za nami grzesznymi
+[25223][25258]/teraz i w godzinę śmierci naszej.
+[25422][25453].:: GrupaHatak.pl ::.

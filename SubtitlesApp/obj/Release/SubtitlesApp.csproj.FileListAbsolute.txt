@@ -1,0 +1,14 @@
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\bin\Release\SubtitlesApp.exe.config
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\bin\Release\SubtitlesApp.exe
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\bin\Release\SubtitlesApp.pdb
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\MainWindow.g.cs
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\App.g.cs
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp_MarkupCompile.cache
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp_MarkupCompile.lref
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\MainWindow.baml
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.g.resources
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.Properties.Resources.resources
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.exe
+C:\Users\Maciej\Desktop\PROJECTS\STUDIA PW\PO\SubtitlesApp\SubtitlesApp\obj\Release\SubtitlesApp.pdb
